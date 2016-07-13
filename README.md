@@ -13,11 +13,11 @@
 * [How to use](https://github.com/cjeon/sokChoGo#how-to-use)
 * [Contribution](https://github.com/cjeon/sokChoGo#Contribution)
 * EN
-* [Requirements](https://github.com/cjeon/sokChoGo#Requirements(en))
-* [Setup](https://github.com/cjeon/sokChoGo#Setup(en))
-* [How it works](https://github.com/cjeon/sokChoGo#how-it-works(en))
-* [How to use](https://github.com/cjeon/sokChoGo#how-to-use(en))
-* [Contribution](https://github.com/cjeon/sokChoGo#Contribution(en))
+* [Requirements](https://github.com/cjeon/sokChoGo#requirementsen)
+* [Setup](https://github.com/cjeon/sokChoGo#setupen)
+* [How it works](https://github.com/cjeon/sokChoGo#how-it-worksen)
+* [How to use](https://github.com/cjeon/sokChoGo#how-to-useen)
+* [Contribution](https://github.com/cjeon/sokChoGo#contributionen)
 
 # KR
 # Requirements
