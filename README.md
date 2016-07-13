@@ -2,7 +2,7 @@
 **낯선 속초가 아닌 편안한 침대에서, 발 대신 방향키로 포켓몬 세상을 누비세요!**  
 **Travel the pokemon world in your comfy bed, with your keyboards, not on your legs.**
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
-* Use at your own risk.
+* You may be banned. Please Use at your own risk.
 
 시연동영상 (클릭하시면 youtube로 이동합니다.)  
 Sample video (click the below image to view video on youtube)  
@@ -32,7 +32,7 @@ Sample video (click the below image to view video on youtube)
 
 # Setup
 
-## Environments
+## Python3
 0. `brew install python3`
 1. `pip3 install pyobjc-core`
 2. `pip3 install pyobjc`
@@ -59,7 +59,7 @@ Sample video (click the below image to view video on youtube)
 # How to use
 
 1. repo 를 clone 받으세요. `git clone https://github.com/cjeon/sokChoGo.git`
-2. Xcode에서 simple iphone project를 생성합니다.  
+2. Xcode에서 simple iphone project를 생성합니다. (setup의 xcode 참고)    
 (2.5 최초 gpx 업로드시 XCODE에서 수동으로 add gpx file to project... 를 해주셔야 3번에서 정상동작합니다. 사진 2 최하단 참조.)
 3. sockchogo.py 에서 자유롭게 변수를 변경합니다.
 4. XCode에서 gps 아이콘 위에 마우스를 가져다대고 엔터를, 사용하실 gpx 파일 이름 위에 마우스를 두고 엔터를, 터미널 위에 마우스를 두시고 엔터를 누르시면 좌표가 등록됩니다.
@@ -87,7 +87,7 @@ Sample video (click the below image to view video on youtube)
 
 # Setup(en)
 
-## Environments
+## Python3
 0. `brew install python3`
 1. `pip3 install pyobjc-core`
 2. `pip3 install pyobjc`
