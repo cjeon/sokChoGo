@@ -1,10 +1,25 @@
 # sokChoGo
-속초로 떠납니다..
+**낯선 속초가 아닌 편안한 침대에서, 발 대신 방향키로 포켓몬 세상을 누비세요!**
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
 
 시연동영상 (클릭하시면 youtube로 이동합니다.)  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NGt5XR5E5wg/0.jpg)](http://www.youtube.com/watch?v=NGt5XR5E5wg "sokChoGo 시연")
 
+# Table of Contents
+* KR
+* [Requirements](https://github.com/cjeon/sokChoGo#Requirements)
+* [Setup](https://github.com/cjeon/sokChoGo#Setup)
+* [How it works](https://github.com/cjeon/sokChoGo#how-it-works)
+* [How to use](https://github.com/cjeon/sokChoGo#how-to-use)
+* [Contribution](https://github.com/cjeon/sokChoGo#Contribution)
+* EN
+* [Requirements](https://github.com/cjeon/sokChoGo#Requirements(en))
+* [Setup](https://github.com/cjeon/sokChoGo#Setup(en))
+* [How it works](https://github.com/cjeon/sokChoGo#how-it-works(en))
+* [How to use](https://github.com/cjeon/sokChoGo#how-to-use(en))
+* [Contribution](https://github.com/cjeon/sokChoGo#Contribution(en))
+
+# KR
 # Requirements
 
 0. Iphone & Mac. 
@@ -58,3 +73,58 @@
 
 # Contribution
 자유롭게 PR 넣어주세요!
+
+# En
+# Requirements(en)
+
+0. Iphone & Mac. 
+1. Apple Developer ID => needed to upload gpx files to iPhone. (not sure if it's necessary)
+2. XCode.
+3. pyautogui. Used to get mouse position and trigger clicks.
+
+# Setup(en)
+
+## Environments
+0. `brew install python3`
+1. `pip3 install pyobjc-core`
+2. `pip3 install pyobjc`
+3. `pip3 install pyautogui`
+4. (optional) `pip3 install image`  
+
+## XCode
+0. Open Xcode, and click `Create a new Xcode project`.
+1. ios > Application > `Single View Application`
+2. Write anything until `next` is clickable.
+3. Connect your iphone with your mac. (* dev mode needed.)
+4. Build your empty project. 
+
+## sokChoGo
+0. Run sokChoGo by typing `python3 sokchogo.py` in your terminal. Set your mouse cursor location according to setup message.
+1. Refer to How it Works and How to use for details.
+
+# How it works(en)
+
+1. A new GPX file with different lattitude and longitude is generated everytime you press `w,a,s,d` buttons. (W goes north, D goes east, etc. )
+2. Then XCode fools your iphone using the newly made GPX file.
+3. Infinite loop => PROFIT!
+
+# How to use(en)
+
+1. Clone this repo by `git clone https://github.com/cjeon/sokChoGo.git`
+2. Create a simple iphone project in XCode.  
+(2.5 For the first time, you need to add GPX file to your project manually. Refer to last row of second image.)
+3. Change variables in sokchogo.py. 
+4. Press enters in following steps. Enters must be pressed when you're focused on terminal (not XCODE). First, GPS icon (blue one) on XCode, GPX filename on XCode, Terminal, on terminal. (refer to attached images)
+5. You're all set! Navigate world with WASD.
+
+## gps icon 
+(blue icon left to "Test1")  
+![alt tag](http://i.imgur.com/M9h8Lgk.png)
+
+
+## GPX filename 
+(test_py_1 in below image)  
+![alt tag](http://i.imgur.com/4bSNR8q.png)  
+
+# Contribution(en)
+Any kind of PR are welcome!
