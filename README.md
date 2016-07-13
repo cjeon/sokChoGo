@@ -1,5 +1,6 @@
 # sokChoGo
-속초로가자!!
+속초로 떠납니다..
+* 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
 
 # Requirements
 
