@@ -1,8 +1,11 @@
 # sokChoGo
-**낯선 속초가 아닌 편안한 침대에서, 발 대신 방향키로 포켓몬 세상을 누비세요!**
+**낯선 속초가 아닌 편안한 침대에서, 발 대신 방향키로 포켓몬 세상을 누비세요!**  
+**Travel the pockemon world in your comfy bed, with your keyboards, not on your legs.**
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
+* Use at your own risk.
 
 시연동영상 (클릭하시면 youtube로 이동합니다.)  
+Sample video (click the below image to view video on youtube)  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NGt5XR5E5wg/0.jpg)](http://www.youtube.com/watch?v=NGt5XR5E5wg "sokChoGo 시연")
 
 # Table of Contents
@@ -12,7 +15,7 @@
 * [How it works](https://github.com/cjeon/sokChoGo#how-it-works)
 * [How to use](https://github.com/cjeon/sokChoGo#how-to-use)
 * [Contribution](https://github.com/cjeon/sokChoGo#Contribution)
-* EN
+* [EN](https://github.com/cjeon/sokChoGo#en)
 * [Requirements](https://github.com/cjeon/sokChoGo#requirementsen)
 * [Setup](https://github.com/cjeon/sokChoGo#setupen)
 * [How it works](https://github.com/cjeon/sokChoGo#how-it-worksen)
