@@ -1,6 +1,6 @@
 # sokChoGo
 **낯선 속초가 아닌 편안한 침대에서, 발 대신 방향키로 포켓몬 세상을 누비세요!**  
-**Travel the pockemon world in your comfy bed, with your keyboards, not on your legs.**
+**Travel the pokemon world in your comfy bed, with your keyboards, not on your legs.**
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
 * Use at your own risk.
 
