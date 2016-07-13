@@ -8,8 +8,8 @@ global base_lat, base_lon, diff_lat, diff_lon, gpx_path
 base_lat = 38.212018
 base_lon = 128.591537
 # 한 걸음마다 바꿀 위, 경도.
-diff_lat = 0.0002
-diff_lon = 0.0002
+diff_lat = 0.0005
+diff_lon = 0.0005
 # GPX 파일 위치와 이름. 없으시면 저장하고 싶은 path를 입력하시면 됩니다.
 # 예시: "/Users/cjeon/Desktop/test_py_1.gpx"
 gpx_path = "pikapika.gpx"
@@ -63,11 +63,11 @@ def main():
         k = inputManager()
         if k == 'w':
             lat += 1
-        elif k == 'a':
+        elif k == 'd':
             lon += 1
         elif k == 's':
             lat -= 1
-        elif k == 'd':
+        elif k == 'a':
             lon -= 1
         # gpx 파일 생성
         gen_gpx(lat,lon)
