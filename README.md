@@ -2,6 +2,9 @@
 속초로 떠납니다..
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
 
+시연동영상 (클릭하시면 youtube로 이동합니다.)  
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NGt5XR5E5wg/0.jpg)](http://www.youtube.com/watch?v=NGt5XR5E5wg "sokChoGo 시연")
+
 # Requirements
 
 0. Iphone & Mac. 
