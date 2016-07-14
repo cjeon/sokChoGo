@@ -12,7 +12,7 @@ Sample & explanation video (click the below image to view video on youtube. Enab
 When there are two or more monitors, coordinates of the main monitor is used. Please place your terminal and XCode in your main monitor. I'm trying to solve this problem.
 
 ## Jul 14 Update
-자동 저장 기능이 추가되었습니다. 좌표값이 바뀔 때마다 `save.txt`에 좌표값이 저장됩니다. 시작시 `save.txt`에서 정상적으로 좌표값을 읽어오면 자동으로 그 좌표값을 기본 좌표값으로 사용합니다.
+자동 저장 기능이 추가되었습니다. 좌표값이 바뀔 때마다 `save.txt`에 좌표값이 저장됩니다. 시작시 `save.txt`에서 정상적으로 좌표값을 읽어오면 자동으로 그 좌표값을 기본 좌표값으로 사용합니다.  
 Added auto save feature. Coordinates are saved to `save.txt` everytime coordinates changes. If coordinates are successfully loaded at the start of the program, read coordinates are used as starting coordinates.
 
 # Table of Contents
