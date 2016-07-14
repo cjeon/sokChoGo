@@ -11,6 +11,10 @@ Sample & explanation video (click the below image to view video on youtube. Enab
 모니터가 2대 이상일 때는 메인 모니터 좌표값이 인식됩니다. 터미널과 엑스코드를 주 모니터에 두시고 사용하세요. 개선할 방법을 찾고 있습니다.  
 When there are two or more monitors, coordinates of the main monitor is used. Please place your terminal and XCode in your main monitor. I'm trying to solve this problem.
 
+## Jul 14 Update
+자동 저장 기능이 추가되었습니다. 좌표값이 바뀔 때마다 `save.txt`에 좌표값이 저장됩니다. 시작시 `save.txt`에서 정상적으로 좌표값을 읽어오면 자동으로 그 좌표값을 기본 좌표값으로 사용합니다.
+Added auto save feature. Coordinates are saved to `save.txt` everytime coordinates changes. If coordinates are successfully loaded at the start of the program, read coordinates are used as starting coordinates.
+
 # Table of Contents
 * KR
 * [Requirements](https://github.com/cjeon/sokChoGo#Requirements)
