@@ -8,7 +8,7 @@
 Sample & explanation video (click the below image to view video on youtube. Enable subtitles to see explanations. Sorry that En subtitle is not yet ready :/)  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NGt5XR5E5wg/0.jpg)](http://www.youtube.com/watch?v=NGt5XR5E5wg "sokChoGo 시연")
 
-모니터가 2대 이상일 때는 메인 모니터 좌표값이 인식됩니다. 터미널과 엑스코드를 주 모니터에 두시고 사용하세요. 개선할 방법을 찾고 있습니다.
+모니터가 2대 이상일 때는 메인 모니터 좌표값이 인식됩니다. 터미널과 엑스코드를 주 모니터에 두시고 사용하세요. 개선할 방법을 찾고 있습니다.  
 When there are two or more monitors, coordinates of the main monitor is used. Please place your terminal and XCode in your main monitor. I'm trying to solve this problem.
 
 # Table of Contents
