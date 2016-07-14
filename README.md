@@ -4,8 +4,8 @@
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
 * You may be banned. Please Use at your own risk.
 
-시연동영상 (클릭하시면 youtube로 이동합니다.)  
-Sample video (click the below image to view video on youtube)  
+시연 & 설명 동영상 (클릭하시면 youtube로 이동합니다. 자막을 켜시면 설명을 보실 수 있습니다.)  
+Sample & explanation video (click the below image to view video on youtube. Enable subtitles to see explanations. Sorry that En subtitle is not yet ready :/)  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NGt5XR5E5wg/0.jpg)](http://www.youtube.com/watch?v=NGt5XR5E5wg "sokChoGo 시연")
 
 # Table of Contents
@@ -64,6 +64,7 @@ Sample video (click the below image to view video on youtube)
 3. sockchogo.py 에서 자유롭게 변수를 변경합니다.
 4. XCode에서 gps 아이콘 위에 마우스를 가져다대고 엔터를, 사용하실 gpx 파일 이름 위에 마우스를 두고 엔터를, 터미널 위에 마우스를 두시고 엔터를 누르시면 좌표가 등록됩니다.
 5. 이제 wasd 로 조작하시고, command + c로 escape 하시면 됩니다.
+(4번과 5번 과정을 최상단 youtube video에서 진행하였으니 참고해주세요. 자막을 켜고 보세요!)
 
 ## gps 아이콘  
 (Test 1 왼쪽 파랑색 아이콘)  
