@@ -1,12 +1,15 @@
 # sokChoGo
 **낯선 속초가 아닌 편안한 침대에서, 발 대신 방향키로 포켓몬 세상을 누비세요!**  
-**Travel the pockemon world in your comfy bed, with your keyboards, not on your legs.**
+**Travel the pokemon world in your comfy bed, with your keyboards, not on your legs.**
 * 블락될 수도 있으니 보조 gmail을 쓰시는 걸 추천합니다.
-* Use at your own risk.
+* You may be banned. Please Use at your own risk.
 
-시연동영상 (클릭하시면 youtube로 이동합니다.)  
-Sample video (click the below image to view video on youtube)  
+시연 & 설명 동영상 (클릭하시면 youtube로 이동합니다. 자막을 켜시면 설명을 보실 수 있습니다.)  
+Sample & explanation video (click the below image to view video on youtube. Enable subtitles to see explanations. Sorry that En subtitle is not yet ready :/)  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NGt5XR5E5wg/0.jpg)](http://www.youtube.com/watch?v=NGt5XR5E5wg "sokChoGo 시연")
+
+모니터가 2대 이상일 때는 메인 모니터 좌표값이 인식됩니다. 터미널과 엑스코드를 주 모니터에 두시고 사용하세요. 개선할 방법을 찾고 있습니다.  
+When there are two or more monitors, coordinates of the main monitor is used. Please place your terminal and XCode in your main monitor. I'm trying to solve this problem.
 
 # Table of Contents
 * KR
@@ -32,12 +35,12 @@ Sample video (click the below image to view video on youtube)
 
 # Setup
 
-## Environments
+## Python3
 0. `brew install python3`
 1. `pip3 install pyobjc-core`
 2. `pip3 install pyobjc`
-3. `pip3 install pyautogui`
-4. (optional) `pip3 install image`  
+3. `pip3 install image` 
+4. `pip3 install pyautogui` 
 
 ## XCode
 0. Xcode를 키신 후 `Create a new Xcode project`클릭.
@@ -59,11 +62,12 @@ Sample video (click the below image to view video on youtube)
 # How to use
 
 1. repo 를 clone 받으세요. `git clone https://github.com/cjeon/sokChoGo.git`
-2. Xcode에서 simple iphone project를 생성합니다.  
+2. Xcode에서 simple iphone project를 생성합니다. (setup의 xcode 참고)    
 (2.5 최초 gpx 업로드시 XCODE에서 수동으로 add gpx file to project... 를 해주셔야 3번에서 정상동작합니다. 사진 2 최하단 참조.)
 3. sockchogo.py 에서 자유롭게 변수를 변경합니다.
 4. XCode에서 gps 아이콘 위에 마우스를 가져다대고 엔터를, 사용하실 gpx 파일 이름 위에 마우스를 두고 엔터를, 터미널 위에 마우스를 두시고 엔터를 누르시면 좌표가 등록됩니다.
 5. 이제 wasd 로 조작하시고, command + c로 escape 하시면 됩니다.
+(4번과 5번 과정을 최상단 youtube video에서 진행하였으니 참고해주세요. 자막을 켜고 보세요!)
 
 ## gps 아이콘  
 (Test 1 왼쪽 파랑색 아이콘)  
@@ -87,12 +91,12 @@ Sample video (click the below image to view video on youtube)
 
 # Setup(en)
 
-## Environments
+## Python3
 0. `brew install python3`
 1. `pip3 install pyobjc-core`
 2. `pip3 install pyobjc`
-3. `pip3 install pyautogui`
-4. (optional) `pip3 install image`  
+3. `pip3 install image`
+4. `pip3 install pyautogui`
 
 ## XCode
 0. Open Xcode, and click `Create a new Xcode project`.
