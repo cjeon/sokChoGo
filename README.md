@@ -92,8 +92,8 @@ Sample & explanation video (click the below image to view video on youtube. Enab
 0. `brew install python3`
 1. `pip3 install pyobjc-core`
 2. `pip3 install pyobjc`
-3. `pip3 install pyautogui`
-4. (optional) `pip3 install image`  
+3. `pip3 install image`
+4. `pip3 install pyautogui`
 
 ## XCode
 0. Open Xcode, and click `Create a new Xcode project`.
