@@ -87,7 +87,7 @@ def load_save():
     except ValueError as e:
         print("세이브 파일을 파싱하지 못했습니다.")
         print(e)
-    return False, None, None
+    return False, base_lat, base_lon
 
 
 def main():
