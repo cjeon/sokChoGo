@@ -33,9 +33,8 @@ Added auto save feature. Coordinates are saved to `save.txt` everytime coordinat
 # Requirements
 
 0. Iphone & Mac. 
-1. Apple Developer ID => 아이폰에 gpx 를 올리기 위해 필요합니다. (없어도 되는지는 잘 모르겠습니다.)
-2. XCode.
-3. pyautogui. 마우스 위치 인식과 클릭을 위해 사용합니다.  
+1. XCode.
+2. python3 & pyautogui. 마우스 위치 인식과 클릭을 위해 사용합니다.  
 
 # Setup
 
@@ -51,7 +50,6 @@ Added auto save feature. Coordinates are saved to `save.txt` everytime coordinat
 1. ios > Application > `Single View Application`
 2. 아무렇게나 setup하고 `next`
 3. Developer mode가 활성화된 아이폰으로 연결.
-4. Build 합니다. Build 하려면 Apple Developer ID가 필요합니다.
 
 ## sokChoGo
 0. sokChoGo 를 실행하신 후 지시에 따라 마우스커서를 움직이면서 엔터를 누릅니다. 좌표 기록을 위함입니다.
@@ -89,9 +87,8 @@ Added auto save feature. Coordinates are saved to `save.txt` everytime coordinat
 # Requirements(en)
 
 0. Iphone & Mac. 
-1. Apple Developer ID => needed to upload gpx files to iPhone. (not sure if it's necessary)
-2. XCode.
-3. pyautogui. Used to get mouse position and trigger clicks.
+1. XCode.
+2. Python3 & pyautogui. Used to get mouse position and trigger clicks.
 
 # Setup(en)
 
